@@ -5,3 +5,5 @@ to import dump to mysql server
  ```
 mysql> source "path-to-Company.sql" 
 ```
+
+--
